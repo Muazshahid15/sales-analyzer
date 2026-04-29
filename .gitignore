@@ -1,0 +1,17 @@
+# Python
+
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac junk
+.DS_Store
+
+# Data (keep raw data out of git if it gets large)
+# data/
+
+#Environment
+.env
+venv/
