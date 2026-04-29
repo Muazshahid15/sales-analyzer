@@ -1,0 +1,1001 @@
+date,region,sales_rep,product,deal_stage,deal_size,units_sold,unit_price,revenue
+2023-11-24,East,Frank,Hardware,Closed Won,Medium,11,14309.61,157405.71
+2023-02-27,West,Grace,Support Package,Closed Won,Small,5,5267.93,26339.65
+2023-01-13,North,Alice,Training,Closed Won,Medium,13,10103.55,131346.15
+2023-05-21,East,Alice,Software Liscense,Closed Won,Small,5,11401.46,57007.3
+2023-05-06,East,Alice,Training,Closed Lost,Medium,13,12273.22,0.0
+2023-04-25,West,Eva,Software Liscense,Closed Won,Small,6,14213.37,85280.22
+2023-03-13,North,David,Consulting,Closed Lost,Small,5,5037.33,0.0
+2023-02-22,North,Eva,Software Liscense,Closed Won,Large,9,12948.34,116535.06
+2023-12-13,East,David,Hardware,Closed Lost,Medium,16,2409.46,0.0
+2023-10-07,South,Henry,Support Package,Closed Won,Small,2,10723.09,21446.18
+2023-02-14,East,Eva,Consulting,Closed Won,Small,1,11258.68,11258.68
+2023-10-30,East,Eva,Software Liscense,Closed Won,Large,8,10326.99,82615.92
+2023-08-05,East,Frank,Training,Closed Lost,Small,19,4158.56,0.0
+2023-01-17,East,Carol,Consulting,Closed Lost,Small,11,13159.13,0.0
+2023-01-16,West,Eva,Consulting,Closed Lost,Small,12,2948.45,0.0
+2023-02-17,North,Frank,Software Liscense,Closed Won,Small,12,1277.7,15332.4
+2023-04-22,West,Bob,Consulting,Closed Won,Medium,7,10903.24,76322.68
+2023-04-30,West,Carol,Training,Closed Won,Medium,13,7394.4,96127.2
+2023-09-16,West,Henry,Consulting,Closed Won,Small,8,12811.92,102495.36
+2023-11-05,East,Eva,Training,Closed Won,Medium,9,6059.26,54533.34
+2023-01-14,South,Grace,Software Liscense,Closed Lost,Small,7,2940.04,0.0
+2023-10-15,North,Alice,Support Package,Closed Lost,Large,15,12628.41,0.0
+2023-04-12,South,Bob,Consulting,Closed Lost,Large,2,8459.19,0.0
+2023-11-29,West,Bob,Support Package,Closed Lost,Small,12,3243.34,0.0
+2023-12-26,West,Henry,Training,Closed Won,Large,1,10945.57,10945.57
+2023-10-07,South,Frank,Consulting,Closed Won,Medium,8,7911.15,63289.2
+2023-08-03,South,Bob,Hardware,Closed Won,Small,5,9262.54,46312.7
+2023-04-23,South,Carol,Support Package,Closed Lost,Small,15,7183.03,0.0
+2023-08-18,West,Eva,Consulting,Closed Won,Small,1,12516.28,12516.28
+2023-10-29,West,Eva,Support Package,Closed Won,Medium,1,12528.66,12528.66
+2023-05-23,North,Grace,Consulting,Closed Won,Large,10,10786.14,107861.4
+2023-01-04,North,Henry,Software Liscense,Closed Won,Medium,10,2028.32,20283.2
+2023-03-23,West,Alice,Support Package,Closed Lost,Large,15,12663.38,0.0
+2023-12-24,South,Frank,Hardware,Closed Lost,Medium,17,10229.69,0.0
+2023-08-05,South,Alice,Hardware,Closed Won,Medium,6,10606.85,63641.1
+2023-06-24,North,Bob,Training,Closed Lost,Medium,3,5763.25,0.0
+2023-05-23,West,Henry,Consulting,Closed Lost,Small,13,13249.55,0.0
+2023-03-21,North,Grace,Support Package,Closed Won,Medium,16,11017.89,176286.24
+2023-04-21,North,Alice,Training,Closed Won,Medium,8,2132.56,17060.48
+2023-06-22,East,Carol,Support Package,Closed Won,Small,15,6412.78,96191.7
+2023-02-22,East,Eva,Consulting,Closed Won,Medium,17,13352.52,226992.84
+2023-02-17,East,Bob,Hardware,Closed Lost,Small,17,1184.35,0.0
+2023-07-14,South,Grace,Software Liscense,Closed Won,Medium,13,14440.54,187727.02
+2023-02-19,West,Alice,Hardware,Closed Lost,Medium,17,10347.86,0.0
+2023-07-03,West,Frank,Training,Closed Won,Small,6,9654.95,57929.7
+2023-06-26,West,Carol,Software Liscense,Closed Won,Small,17,4423.11,75192.87
+2023-11-06,West,Carol,Training,Closed Won,Small,16,4107.48,65719.68
+2023-05-16,East,Alice,Consulting,Closed Won,Large,14,14159.84,198237.76
+2023-01-23,South,Eva,Software Liscense,Closed Won,Small,13,4824.95,62724.35
+2023-08-24,South,Alice,Training,Closed Lost,Large,6,11744.83,0.0
+2023-10-02,East,Bob,Consulting,Closed Won,Small,3,6200.27,18600.81
+2023-03-05,South,Alice,Hardware,Closed Won,Large,14,2519.18,35268.52
+2023-07-13,East,Carol,Consulting,Closed Won,Large,14,655.37,9175.18
+2023-02-10,West,Grace,Support Package,Closed Won,Small,15,8391.73,125875.95
+2023-10-10,East,Alice,Consulting,Closed Won,Medium,8,14648.79,117190.32
+2023-05-31,West,Eva,Consulting,Closed Won,Small,15,5852.47,87787.05
+2023-11-18,West,Henry,Support Package,Closed Won,Medium,13,5679.29,73830.77
+2023-11-13,North,Grace,Training,Closed Won,Small,17,5489.33,93318.61
+2023-07-05,East,Frank,Training,Closed Won,Small,3,8047.89,24143.67
+2023-10-23,North,David,Consulting,Closed Won,Small,6,6889.64,41337.84
+2023-04-09,East,Alice,Support Package,Closed Won,Small,5,13258.76,66293.8
+2023-12-27,East,Eva,Support Package,Closed Won,Small,17,7830.05,133110.85
+2023-02-05,North,Grace,Hardware,Closed Lost,Medium,2,7862.49,0.0
+2023-01-24,North,Eva,Training,Closed Lost,Large,15,2506.39,0.0
+2023-12-05,East,Frank,Software Liscense,Closed Won,Small,5,14749.72,73748.6
+2023-04-27,South,Carol,Training,Closed Won,Medium,6,4124.61,24747.66
+2023-05-29,West,Eva,Training,Closed Lost,Small,6,1563.78,0.0
+2023-02-10,North,Grace,Hardware,Closed Lost,Medium,18,10115.62,0.0
+2023-04-30,West,Eva,Software Liscense,Closed Won,Large,18,9132.81,164390.58
+2023-02-21,South,Eva,Hardware,Closed Lost,Large,4,6519.61,0.0
+2023-07-14,South,Eva,Software Liscense,Closed Won,Large,17,6621.79,112570.43
+2023-05-23,South,Bob,Consulting,Closed Won,Small,14,11883.43,166368.02
+2023-08-21,North,Bob,Software Liscense,Closed Won,Medium,14,3337.83,46729.62
+2023-11-22,South,Carol,Hardware,Closed Won,Medium,13,12393.67,161117.71
+2023-07-06,North,Alice,Training,Closed Lost,Small,7,9906.83,0.0
+2023-03-25,South,Eva,Software Liscense,Closed Lost,Large,12,6575.06,0.0
+2023-07-09,West,Frank,Software Liscense,Closed Won,Small,15,7141.41,107121.15
+2023-07-01,West,Alice,Support Package,Closed Won,Medium,19,4221.38,80206.22
+2023-04-18,East,Frank,Training,Closed Won,Small,11,11405.66,125462.26
+2023-12-10,West,Alice,Consulting,Closed Won,Small,15,7936.68,119050.2
+2023-05-17,East,Carol,Hardware,Closed Lost,Medium,12,5152.39,0.0
+2023-12-26,West,Eva,Consulting,Closed Won,Medium,3,9142.73,27428.19
+2023-12-16,North,Eva,Training,Closed Won,Small,17,14938.15,253948.55
+2023-11-28,West,David,Software Liscense,Closed Lost,Small,3,6811.3,0.0
+2023-02-06,East,Frank,Software Liscense,Closed Won,Medium,19,13850.03,263150.57
+2023-11-08,East,Alice,Training,Closed Lost,Small,4,5502.74,0.0
+2023-11-22,South,Alice,Software Liscense,Closed Won,Small,3,1293.62,3880.86
+2023-03-29,North,Henry,Software Liscense,Closed Lost,Large,16,3461.51,0.0
+2023-10-01,West,Henry,Software Liscense,Closed Won,Medium,12,6571.08,78852.96
+2023-05-06,South,Bob,Hardware,Closed Won,Small,8,3684.71,29477.68
+2023-03-25,West,David,Hardware,Closed Won,Medium,17,503.29,8555.93
+2023-08-25,West,Grace,Support Package,Closed Won,Medium,7,13767.52,96372.64
+2023-07-14,South,Henry,Consulting,Closed Lost,Large,11,12736.25,0.0
+2023-05-19,South,Grace,Training,Closed Lost,Medium,18,11263.24,0.0
+2023-11-24,South,Bob,Training,Closed Won,Small,1,2933.31,2933.31
+2023-12-19,South,Bob,Training,Closed Won,Small,3,2245.27,6735.81
+2023-10-13,South,Bob,Support Package,Closed Won,Small,4,1480.27,5921.08
+2023-04-23,West,Frank,Hardware,Closed Won,Medium,13,10998.42,142979.46
+2023-12-17,South,Frank,Support Package,Closed Won,Small,6,13967.72,83806.32
+2023-06-16,North,Carol,Training,Closed Lost,Medium,14,6742.77,0.0
+2023-01-29,East,Carol,Consulting,Closed Won,Small,5,2227.54,11137.7
+2023-04-28,South,Bob,Software Liscense,Closed Won,Small,16,7929.7,126875.2
+2023-01-17,South,David,Hardware,Closed Won,Large,15,5558.06,83370.9
+2023-06-11,West,Alice,Hardware,Closed Lost,Small,15,5934.96,0.0
+2023-07-25,South,Frank,Support Package,Closed Lost,Small,4,9509.29,0.0
+2023-05-18,South,David,Hardware,Closed Lost,Medium,8,10921.41,0.0
+2023-02-03,South,Eva,Training,Closed Won,Small,16,2103.75,33660.0
+2023-04-19,West,Frank,Training,Closed Won,Medium,16,1016.06,16256.96
+2023-10-18,South,Frank,Support Package,Closed Lost,Medium,4,14917.79,0.0
+2023-06-11,East,Carol,Training,Closed Lost,Small,13,3874.56,0.0
+2023-04-19,West,Alice,Consulting,Closed Won,Medium,13,1280.54,16647.02
+2023-12-02,East,Alice,Support Package,Closed Lost,Medium,2,3253.19,0.0
+2023-09-13,West,Henry,Consulting,Closed Lost,Small,3,1064.89,0.0
+2023-07-22,South,Grace,Software Liscense,Closed Won,Small,8,6181.26,49450.08
+2023-11-26,East,Grace,Consulting,Closed Lost,Small,15,12134.83,0.0
+2023-08-23,West,Grace,Software Liscense,Closed Won,Large,11,5448.04,59928.44
+2023-03-15,North,Grace,Software Liscense,Closed Won,Small,9,6940.66,62465.94
+2023-05-16,South,Eva,Consulting,Closed Won,Medium,7,10296.01,72072.07
+2023-03-13,West,Eva,Support Package,Closed Lost,Medium,13,7878.96,0.0
+2023-05-07,North,Frank,Training,Closed Lost,Medium,2,12990.96,0.0
+2023-10-15,West,Bob,Training,Closed Lost,Small,8,13057.52,0.0
+2023-10-03,North,Carol,Software Liscense,Closed Won,Small,7,643.71,4505.97
+2023-05-15,South,Carol,Software Liscense,Closed Lost,Medium,12,11781.67,0.0
+2023-10-27,East,Grace,Support Package,Closed Lost,Small,19,7180.64,0.0
+2023-08-08,North,Frank,Hardware,Closed Lost,Small,7,14838.19,0.0
+2023-10-26,West,Henry,Consulting,Closed Lost,Small,10,7506.87,0.0
+2023-07-24,South,David,Software Liscense,Closed Lost,Small,16,14809.99,0.0
+2023-07-05,North,Bob,Training,Closed Won,Large,3,11441.26,34323.78
+2023-04-23,West,Frank,Support Package,Closed Won,Small,10,4104.77,41047.7
+2023-03-12,West,Bob,Consulting,Closed Won,Small,6,8306.73,49840.38
+2023-09-18,West,Bob,Support Package,Closed Won,Small,18,14885.97,267947.46
+2023-09-10,North,Bob,Consulting,Closed Won,Medium,18,12934.19,232815.42
+2023-02-16,North,Frank,Consulting,Closed Lost,Medium,5,1911.82,0.0
+2023-01-25,North,Grace,Software Liscense,Closed Won,Small,7,10742.39,75196.73
+2023-02-26,East,Carol,Support Package,Closed Won,Medium,2,5510.9,11021.8
+2023-03-20,North,Carol,Support Package,Closed Lost,Medium,11,601.24,0.0
+2023-11-18,North,Grace,Training,Closed Won,Large,13,6350.47,82556.11
+2023-03-23,North,Bob,Training,Closed Won,Medium,5,3903.94,19519.7
+2023-12-15,East,David,Software Liscense,Closed Won,Small,6,12373.6,74241.6
+2023-08-05,North,Alice,Software Liscense,Closed Won,Small,14,5391.29,75478.06
+2023-11-02,West,Frank,Hardware,Closed Won,Small,12,12499.09,149989.08
+2023-02-02,North,Alice,Training,Closed Won,Small,4,508.67,2034.68
+2023-07-17,West,Henry,Consulting,Closed Won,Large,6,4963.38,29780.28
+2023-07-15,West,Grace,Support Package,Closed Lost,Small,10,3996.9,0.0
+2023-11-02,West,David,Software Liscense,Closed Won,Small,18,3886.73,69961.14
+2023-08-28,East,Frank,Support Package,Closed Lost,Medium,15,1488.71,0.0
+2023-09-28,East,Grace,Support Package,Closed Won,Medium,8,3213.3,25706.4
+2023-05-09,East,Bob,Hardware,Closed Won,Small,9,8555.47,76999.23
+2023-10-11,North,Carol,Training,Closed Lost,Small,5,4724.74,0.0
+2023-01-06,West,Alice,Software Liscense,Closed Won,Small,10,6552.22,65522.2
+2023-12-15,East,Eva,Support Package,Closed Won,Medium,6,5964.57,35787.42
+2023-02-28,East,Eva,Software Liscense,Closed Won,Small,16,13200.62,211209.92
+2023-12-16,North,David,Consulting,Closed Won,Small,3,13626.84,40880.52
+2023-10-02,East,Bob,Hardware,Closed Won,Medium,10,7647.88,76478.8
+2023-05-17,North,Henry,Consulting,Closed Won,Small,11,5287.26,58159.86
+2023-11-25,South,Alice,Software Liscense,Closed Won,Medium,11,2048.61,22534.71
+2023-06-24,East,Bob,Software Liscense,Closed Won,Small,17,14324.34,243513.78
+2023-02-27,South,Alice,Training,Closed Lost,Small,4,1373.29,0.0
+2023-05-31,North,David,Support Package,Closed Lost,Large,4,4815.93,0.0
+2023-08-11,West,David,Support Package,Closed Lost,Medium,17,4821.96,0.0
+2023-03-22,East,Henry,Consulting,Closed Won,Small,9,5145.82,46312.38
+2023-08-21,North,Eva,Hardware,Closed Lost,Medium,19,2882.16,0.0
+2023-01-02,West,Bob,Support Package,Closed Won,Medium,5,11855.84,59279.2
+2023-05-15,West,Frank,Training,Closed Won,Medium,6,2276.22,13657.32
+2023-09-14,South,Eva,Consulting,Closed Won,Small,3,9706.15,29118.45
+2023-04-02,North,Bob,Consulting,Closed Lost,Large,1,2295.77,0.0
+2023-09-17,West,Eva,Training,Closed Won,Small,16,1522.77,24364.32
+2023-02-24,East,Frank,Hardware,Closed Won,Small,11,13686.73,150554.03
+2023-11-17,East,Carol,Training,Closed Won,Small,13,3256.87,42339.31
+2023-06-02,South,Carol,Hardware,Closed Lost,Small,10,12408.13,0.0
+2023-11-24,West,Henry,Training,Closed Lost,Medium,3,8397.15,0.0
+2023-09-17,North,Carol,Training,Closed Lost,Small,9,1628.92,0.0
+2023-11-08,East,Carol,Software Liscense,Closed Won,Small,12,14354.0,172248.0
+2023-04-12,West,Grace,Consulting,Closed Won,Large,14,4080.94,57133.16
+2023-03-20,West,Alice,Training,Closed Won,Small,1,12964.86,12964.86
+2023-07-11,South,Grace,Training,Closed Won,Small,18,2947.75,53059.5
+2023-03-24,East,Grace,Support Package,Closed Won,Small,17,12882.17,218996.89
+2023-10-04,East,Henry,Consulting,Closed Lost,Small,9,691.82,0.0
+2023-09-29,North,Grace,Support Package,Closed Lost,Small,9,7920.82,0.0
+2023-01-01,East,Carol,Consulting,Closed Lost,Medium,10,11656.92,0.0
+2023-11-03,North,Frank,Support Package,Closed Lost,Small,19,14054.54,0.0
+2023-06-15,East,Henry,Training,Closed Lost,Small,15,13683.43,0.0
+2023-09-08,South,Henry,Training,Closed Won,Medium,5,12384.56,61922.8
+2023-01-10,East,David,Software Liscense,Closed Won,Medium,15,13378.77,200681.55
+2023-02-27,North,Henry,Support Package,Closed Lost,Small,2,3388.69,0.0
+2023-07-05,North,David,Hardware,Closed Won,Medium,13,4620.67,60068.71
+2023-06-07,South,Henry,Software Liscense,Closed Lost,Small,16,4690.04,0.0
+2023-05-03,East,Alice,Support Package,Closed Won,Small,15,5967.28,89509.2
+2023-01-30,East,Carol,Support Package,Closed Won,Medium,10,6203.15,62031.5
+2023-05-04,South,Henry,Software Liscense,Closed Lost,Small,14,8396.05,0.0
+2023-10-18,East,Carol,Training,Closed Lost,Large,10,2818.26,0.0
+2023-02-10,East,Carol,Support Package,Closed Lost,Small,14,10523.08,0.0
+2023-02-13,North,Eva,Training,Closed Won,Medium,9,2929.71,26367.39
+2023-09-06,East,Henry,Software Liscense,Closed Lost,Small,14,4999.47,0.0
+2023-02-05,East,Bob,Training,Closed Won,Medium,3,7798.5,23395.5
+2023-09-30,South,Eva,Consulting,Closed Won,Medium,16,12048.39,192774.24
+2023-03-06,South,Bob,Hardware,Closed Won,Medium,2,11222.3,22444.6
+2023-03-07,West,Carol,Support Package,Closed Won,Small,10,9860.25,98602.5
+2023-12-04,North,Carol,Hardware,Closed Won,Medium,3,2758.71,8276.13
+2023-09-01,East,Eva,Training,Closed Lost,Medium,11,8432.16,0.0
+2023-10-09,East,Eva,Support Package,Closed Lost,Medium,11,1767.97,0.0
+2023-03-26,West,Bob,Training,Closed Won,Medium,13,5971.77,77633.01
+2023-05-16,East,David,Consulting,Closed Won,Medium,7,6495.99,45471.93
+2023-09-28,North,Bob,Software Liscense,Closed Lost,Small,17,1077.27,0.0
+2023-11-07,West,Eva,Support Package,Closed Lost,Small,2,4472.83,0.0
+2023-08-05,North,Frank,Consulting,Closed Lost,Small,12,14356.92,0.0
+2023-04-19,West,Eva,Consulting,Closed Won,Small,10,14327.67,143276.7
+2023-10-04,West,Frank,Support Package,Closed Won,Large,18,5608.74,100957.32
+2023-12-20,South,Alice,Training,Closed Won,Medium,11,1124.95,12374.45
+2023-04-13,North,Eva,Consulting,Closed Won,Large,16,3096.88,49550.08
+2023-06-09,East,Alice,Hardware,Closed Won,Small,17,6187.16,105181.72
+2023-07-24,East,David,Consulting,Closed Lost,Large,19,14242.81,0.0
+2023-12-10,North,Bob,Training,Closed Won,Medium,18,2547.39,45853.02
+2023-11-29,East,Frank,Training,Closed Won,Medium,3,11570.98,34712.94
+2023-07-11,East,Bob,Hardware,Closed Won,Medium,16,2075.9,33214.4
+2023-08-13,North,Alice,Consulting,Closed Won,Small,6,14728.23,88369.38
+2023-09-22,West,Frank,Training,Closed Won,Medium,12,6033.44,72401.28
+2023-08-20,North,Bob,Support Package,Closed Won,Medium,11,11740.9,129149.9
+2023-03-03,West,Eva,Software Liscense,Closed Won,Small,15,5467.57,82013.55
+2023-05-07,East,Carol,Software Liscense,Closed Lost,Small,15,9601.2,0.0
+2023-04-26,East,Alice,Software Liscense,Closed Lost,Large,16,3284.23,0.0
+2023-02-02,East,Bob,Consulting,Closed Won,Large,10,2617.3,26173.0
+2023-06-23,South,Alice,Hardware,Closed Won,Large,12,14101.93,169223.16
+2023-01-11,West,Grace,Training,Closed Lost,Medium,13,13805.89,0.0
+2023-10-29,South,Alice,Support Package,Closed Won,Small,4,13368.3,53473.2
+2023-10-11,South,Frank,Support Package,Closed Won,Small,7,9568.79,66981.53
+2023-04-28,North,Grace,Consulting,Closed Lost,Small,2,12219.89,0.0
+2023-10-29,South,Henry,Software Liscense,Closed Won,Small,15,1501.04,22515.6
+2023-04-23,North,Frank,Consulting,Closed Won,Small,8,5354.44,42835.52
+2023-01-04,North,Carol,Hardware,Closed Won,Small,7,5048.7,35340.9
+2023-02-06,South,Grace,Hardware,Closed Won,Small,15,9716.86,145752.9
+2023-12-29,West,Henry,Training,Closed Won,Large,14,5661.39,79259.46
+2023-11-20,West,Eva,Training,Closed Lost,Small,8,2653.35,0.0
+2023-01-31,West,Alice,Hardware,Closed Won,Large,12,9148.77,109785.24
+2023-04-28,West,Bob,Hardware,Closed Won,Medium,13,12308.57,160011.41
+2023-02-04,West,David,Hardware,Closed Lost,Small,11,6040.79,0.0
+2023-01-17,South,Alice,Consulting,Closed Won,Small,17,2417.9,41104.3
+2023-06-19,South,Henry,Hardware,Closed Won,Small,17,3351.98,56983.66
+2023-02-06,East,Alice,Support Package,Closed Lost,Small,4,3943.51,0.0
+2023-09-21,West,Carol,Software Liscense,Closed Won,Medium,8,4848.52,38788.16
+2023-05-02,South,Eva,Hardware,Closed Lost,Small,5,9820.53,0.0
+2023-05-23,East,David,Software Liscense,Closed Lost,Small,16,9213.71,0.0
+2023-12-09,West,Grace,Consulting,Closed Won,Small,4,10593.16,42372.64
+2023-09-06,North,Grace,Software Liscense,Closed Won,Large,15,5756.28,86344.2
+2023-04-20,East,Grace,Consulting,Closed Lost,Medium,12,12447.97,0.0
+2023-10-04,South,Henry,Support Package,Closed Won,Medium,5,3459.27,17296.35
+2023-03-09,North,Frank,Consulting,Closed Lost,Small,16,7301.09,0.0
+2023-10-20,North,Frank,Consulting,Closed Won,Medium,14,12113.61,169590.54
+2023-10-23,North,Bob,Training,Closed Won,Medium,10,3112.3,31123.0
+2023-08-31,East,David,Hardware,Closed Won,Medium,7,2093.02,14651.14
+2023-05-05,South,Grace,Hardware,Closed Lost,Large,13,13313.42,0.0
+2023-08-31,North,Frank,Support Package,Closed Lost,Small,5,5472.48,0.0
+2023-07-28,West,Henry,Support Package,Closed Won,Large,3,10416.12,31248.36
+2023-04-08,North,Bob,Hardware,Closed Won,Large,15,867.55,13013.25
+2023-02-18,North,Eva,Training,Closed Lost,Small,4,10505.68,0.0
+2023-02-19,East,Bob,Hardware,Closed Won,Small,15,5083.47,76252.05
+2023-12-04,East,Frank,Training,Closed Won,Large,14,1308.24,18315.36
+2023-08-09,South,Carol,Support Package,Closed Lost,Small,19,9342.29,0.0
+2023-07-01,West,Henry,Software Liscense,Closed Won,Medium,13,3991.66,51891.58
+2023-08-05,East,Carol,Support Package,Closed Lost,Large,10,6108.71,0.0
+2023-07-30,North,Grace,Support Package,Closed Won,Medium,5,1668.42,8342.1
+2023-08-28,South,Carol,Consulting,Closed Won,Small,6,2633.87,15803.22
+2023-01-28,North,Grace,Consulting,Closed Won,Medium,4,4820.67,19282.68
+2023-12-11,North,Grace,Consulting,Closed Lost,Small,2,1801.51,0.0
+2023-12-01,East,Frank,Consulting,Closed Won,Medium,16,13706.98,219311.68
+2023-11-27,South,Carol,Training,Closed Won,Small,18,587.68,10578.24
+2023-02-20,West,Grace,Hardware,Closed Won,Medium,5,7515.97,37579.85
+2023-02-01,West,David,Software Liscense,Closed Lost,Medium,4,2287.09,0.0
+2023-07-26,East,Eva,Support Package,Closed Won,Medium,13,4961.35,64497.55
+2023-06-23,East,Bob,Training,Closed Won,Medium,19,13927.86,264629.34
+2023-02-25,South,Bob,Software Liscense,Closed Lost,Medium,2,2844.57,0.0
+2023-05-08,West,Frank,Training,Closed Won,Medium,13,14504.57,188559.41
+2023-04-09,West,Carol,Training,Closed Won,Small,11,3484.02,38324.22
+2023-04-08,West,Carol,Support Package,Closed Lost,Medium,4,11252.71,0.0
+2023-10-02,North,Grace,Hardware,Closed Won,Small,15,8426.82,126402.3
+2023-08-18,West,Henry,Consulting,Closed Lost,Large,4,13324.94,0.0
+2023-03-13,North,Alice,Hardware,Closed Won,Small,9,8532.9,76796.1
+2023-08-05,South,Grace,Support Package,Closed Lost,Small,7,8251.11,0.0
+2023-04-04,North,Eva,Support Package,Closed Won,Medium,19,3334.14,63348.66
+2023-05-23,South,David,Support Package,Closed Won,Small,19,2910.33,55296.27
+2023-08-25,West,Bob,Software Liscense,Closed Lost,Small,6,13789.09,0.0
+2023-05-08,West,Grace,Hardware,Closed Lost,Medium,6,5253.65,0.0
+2023-02-08,South,Alice,Hardware,Closed Won,Medium,15,5895.19,88427.85
+2023-08-15,East,Alice,Training,Closed Won,Medium,15,11517.44,172761.6
+2023-10-09,South,Grace,Training,Closed Lost,Small,9,5412.94,0.0
+2023-02-20,East,Frank,Training,Closed Won,Medium,4,14304.91,57219.64
+2023-01-26,North,Bob,Support Package,Closed Lost,Small,18,11199.95,0.0
+2023-11-30,North,Frank,Hardware,Closed Lost,Medium,18,9162.72,0.0
+2023-10-04,North,David,Support Package,Closed Won,Medium,5,13272.98,66364.9
+2023-01-08,West,Alice,Software Liscense,Closed Won,Medium,11,1219.29,13412.19
+2023-02-17,North,Alice,Training,Closed Lost,Small,5,4227.41,0.0
+2023-05-02,East,Eva,Support Package,Closed Won,Small,4,7243.03,28972.12
+2023-03-27,North,David,Support Package,Closed Won,Small,12,3791.19,45494.28
+2023-07-28,South,Alice,Software Liscense,Closed Lost,Small,2,11286.63,0.0
+2023-09-06,South,David,Consulting,Closed Won,Small,13,13828.52,179770.76
+2023-09-04,West,Bob,Hardware,Closed Lost,Medium,10,6644.67,0.0
+2023-04-20,South,Carol,Consulting,Closed Won,Small,9,5460.92,49148.28
+2023-07-25,East,Alice,Training,Closed Won,Large,10,14442.49,144424.9
+2023-01-31,North,Eva,Support Package,Closed Won,Small,7,6950.36,48652.52
+2023-03-26,West,Bob,Software Liscense,Closed Won,Medium,4,7591.2,30364.8
+2023-07-14,North,Grace,Software Liscense,Closed Won,Medium,19,5598.92,106379.48
+2023-01-02,North,David,Hardware,Closed Won,Small,10,13688.45,136884.5
+2023-07-19,East,Grace,Consulting,Closed Lost,Small,3,8749.85,0.0
+2023-05-16,South,Frank,Hardware,Closed Won,Medium,19,11551.53,219479.07
+2023-08-21,South,Bob,Support Package,Closed Won,Small,2,12271.2,24542.4
+2023-05-27,North,Grace,Hardware,Closed Won,Large,10,5456.81,54568.1
+2023-08-05,West,Henry,Software Liscense,Closed Won,Medium,2,6788.57,13577.14
+2023-12-23,South,Henry,Software Liscense,Closed Won,Large,2,12802.84,25605.68
+2023-10-12,West,Alice,Training,Closed Won,Small,17,5767.2,98042.4
+2023-12-05,South,David,Training,Closed Won,Medium,16,12012.06,192192.96
+2023-09-07,West,Carol,Support Package,Closed Won,Medium,16,14144.39,226310.24
+2023-03-21,East,Bob,Consulting,Closed Won,Medium,14,9536.55,133511.7
+2023-04-08,West,Alice,Hardware,Closed Lost,Small,7,11253.6,0.0
+2023-06-01,East,Eva,Support Package,Closed Won,Medium,11,12173.91,133913.01
+2023-04-22,East,Frank,Training,Closed Won,Small,1,12753.07,12753.07
+2023-01-30,West,David,Hardware,Closed Won,Medium,11,6228.27,68510.97
+2023-10-24,East,Bob,Training,Closed Won,Small,4,1243.32,4973.28
+2023-10-05,North,Henry,Hardware,Closed Lost,Large,7,6327.21,0.0
+2023-02-01,East,Bob,Consulting,Closed Won,Small,15,10269.47,154042.05
+2023-06-10,South,Carol,Support Package,Closed Won,Medium,18,7030.08,126541.44
+2023-01-30,West,Henry,Hardware,Closed Won,Large,12,11359.97,136319.64
+2023-01-26,North,Carol,Software Liscense,Closed Won,Medium,17,5676.25,96496.25
+2023-10-27,West,Eva,Software Liscense,Closed Won,Medium,1,9703.79,9703.79
+2023-09-02,South,Frank,Hardware,Closed Won,Small,11,3203.09,35233.99
+2023-09-15,South,Eva,Hardware,Closed Lost,Large,1,11365.86,0.0
+2023-09-29,South,Alice,Hardware,Closed Won,Small,15,8412.59,126188.85
+2023-03-22,East,Alice,Software Liscense,Closed Won,Medium,10,3458.93,34589.3
+2023-01-30,East,Eva,Software Liscense,Closed Won,Medium,7,4732.71,33128.97
+2023-09-18,West,Frank,Hardware,Closed Won,Medium,2,11354.83,22709.66
+2023-02-11,West,Eva,Training,Closed Won,Small,10,7497.72,74977.2
+2023-04-06,North,Frank,Training,Closed Lost,Medium,4,3632.46,0.0
+2023-02-05,North,Frank,Consulting,Closed Lost,Medium,12,14525.43,0.0
+2023-11-01,West,Grace,Support Package,Closed Won,Small,19,10869.31,206516.89
+2023-02-04,East,Henry,Training,Closed Lost,Large,11,14378.46,0.0
+2023-12-12,South,David,Software Liscense,Closed Lost,Small,8,6693.02,0.0
+2023-05-01,West,Frank,Training,Closed Lost,Small,18,7388.95,0.0
+2023-07-26,North,Carol,Consulting,Closed Won,Small,11,13520.35,148723.85
+2023-03-03,East,Frank,Consulting,Closed Lost,Small,11,8113.22,0.0
+2023-10-19,West,Frank,Support Package,Closed Won,Large,13,10755.54,139822.02
+2023-05-07,West,Frank,Training,Closed Lost,Small,3,4156.51,0.0
+2023-10-24,East,Grace,Software Liscense,Closed Won,Small,12,6977.53,83730.36
+2023-11-01,West,Henry,Software Liscense,Closed Won,Small,3,2290.02,6870.06
+2023-01-21,East,Grace,Hardware,Closed Lost,Medium,10,3486.71,0.0
+2023-11-14,South,Alice,Software Liscense,Closed Won,Medium,17,513.68,8732.56
+2023-02-11,East,Grace,Support Package,Closed Lost,Small,2,1069.34,0.0
+2023-08-03,East,Carol,Support Package,Closed Lost,Small,17,14670.62,0.0
+2023-12-03,East,Carol,Software Liscense,Closed Lost,Large,16,4014.13,0.0
+2023-10-26,West,Grace,Software Liscense,Closed Won,Small,2,10118.01,20236.02
+2023-10-17,West,Henry,Hardware,Closed Lost,Small,6,12666.95,0.0
+2023-09-25,East,Eva,Software Liscense,Closed Won,Small,10,8484.58,84845.8
+2023-06-11,West,David,Hardware,Closed Won,Medium,10,2720.6,27206.0
+2023-05-14,North,Henry,Hardware,Closed Lost,Small,8,11057.69,0.0
+2023-04-15,North,Grace,Software Liscense,Closed Won,Medium,1,9203.65,9203.65
+2023-12-09,West,Frank,Consulting,Closed Won,Small,13,11103.13,144340.69
+2023-06-10,West,Bob,Consulting,Closed Lost,Large,9,11661.33,0.0
+2023-05-03,East,David,Hardware,Closed Won,Small,10,14643.45,146434.5
+2023-05-16,South,David,Software Liscense,Closed Won,Medium,15,8816.67,132250.05
+2023-07-22,West,Carol,Consulting,Closed Lost,Small,5,5453.8,0.0
+2023-03-09,North,David,Software Liscense,Closed Won,Small,16,9902.74,158443.84
+2023-12-10,East,Grace,Software Liscense,Closed Lost,Medium,13,1492.39,0.0
+2023-11-27,West,Frank,Software Liscense,Closed Lost,Small,18,13512.26,0.0
+2023-06-03,North,Frank,Training,Closed Lost,Large,11,2231.02,0.0
+2023-08-23,North,Alice,Software Liscense,Closed Lost,Large,9,5253.72,0.0
+2023-06-11,South,Frank,Training,Closed Won,Large,16,12328.31,197252.96
+2023-02-07,East,Henry,Hardware,Closed Won,Small,2,9161.03,18322.06
+2023-01-05,East,Frank,Consulting,Closed Lost,Medium,2,6207.72,0.0
+2023-08-23,South,Carol,Consulting,Closed Lost,Small,12,7364.82,0.0
+2023-11-15,South,Frank,Consulting,Closed Won,Large,8,12890.94,103127.52
+2023-10-16,East,Alice,Consulting,Closed Won,Medium,9,5430.06,48870.54
+2023-02-21,East,Bob,Consulting,Closed Won,Medium,12,13109.92,157319.04
+2023-02-07,West,Grace,Consulting,Closed Won,Small,9,1777.95,16001.55
+2023-10-03,West,Carol,Consulting,Closed Lost,Medium,10,11763.58,0.0
+2023-04-20,South,Henry,Hardware,Closed Won,Small,2,12789.44,25578.88
+2023-09-17,West,Bob,Software Liscense,Closed Lost,Medium,16,3136.36,0.0
+2023-05-16,North,Carol,Support Package,Closed Lost,Small,7,6740.02,0.0
+2023-03-09,West,Eva,Training,Closed Won,Medium,2,2899.75,5799.5
+2023-06-28,West,David,Support Package,Closed Won,Medium,1,10745.76,10745.76
+2023-02-05,North,Eva,Support Package,Closed Won,Medium,19,8262.54,156988.26
+2023-05-06,South,Frank,Software Liscense,Closed Won,Small,4,9712.19,38848.76
+2023-07-09,North,Bob,Software Liscense,Closed Lost,Medium,2,3349.06,0.0
+2023-05-26,West,Frank,Software Liscense,Closed Lost,Small,14,3570.31,0.0
+2023-03-22,South,David,Consulting,Closed Lost,Small,2,1101.71,0.0
+2023-08-13,West,Carol,Hardware,Closed Won,Small,15,5169.98,77549.7
+2023-10-06,North,David,Consulting,Closed Won,Small,12,8616.3,103395.6
+2023-12-27,North,Alice,Hardware,Closed Lost,Small,5,12940.06,0.0
+2023-06-04,West,David,Hardware,Closed Won,Medium,7,10170.45,71193.15
+2023-11-10,East,Alice,Support Package,Closed Won,Small,10,6813.25,68132.5
+2023-12-01,East,David,Support Package,Closed Won,Small,14,14320.24,200483.36
+2023-09-28,North,Grace,Hardware,Closed Lost,Large,14,10929.06,0.0
+2023-01-05,North,Alice,Hardware,Closed Won,Small,5,13987.4,69937.0
+2023-12-08,East,Bob,Consulting,Closed Lost,Medium,18,8150.03,0.0
+2023-10-11,East,Frank,Consulting,Closed Lost,Medium,14,4254.11,0.0
+2023-06-03,West,Henry,Support Package,Closed Won,Large,2,1265.99,2531.98
+2023-12-06,West,Frank,Software Liscense,Closed Won,Medium,12,11028.23,132338.76
+2023-02-23,East,Eva,Hardware,Closed Won,Medium,6,2258.89,13553.34
+2023-03-10,West,Frank,Consulting,Closed Lost,Medium,4,4890.24,0.0
+2023-05-16,West,Carol,Support Package,Closed Won,Small,13,8220.83,106870.79
+2023-03-01,South,Grace,Consulting,Closed Won,Medium,4,8684.04,34736.16
+2023-02-24,West,David,Hardware,Closed Won,Small,14,9208.46,128918.44
+2023-10-11,North,Eva,Hardware,Closed Lost,Large,16,2910.7,0.0
+2023-03-21,West,Carol,Training,Closed Won,Small,4,6006.19,24024.76
+2023-05-20,West,Carol,Software Liscense,Closed Lost,Medium,1,9449.32,0.0
+2023-05-25,East,Alice,Training,Closed Lost,Small,13,14562.37,0.0
+2023-11-06,North,Frank,Support Package,Closed Won,Medium,4,11050.65,44202.6
+2023-04-18,West,Bob,Consulting,Closed Lost,Small,18,13877.75,0.0
+2023-06-25,West,Henry,Support Package,Closed Won,Large,6,11552.07,69312.42
+2023-04-15,South,Bob,Hardware,Closed Lost,Medium,3,9079.9,0.0
+2023-12-18,West,Eva,Training,Closed Lost,Small,13,3284.34,0.0
+2023-11-21,West,Grace,Training,Closed Lost,Medium,16,10166.94,0.0
+2023-05-16,South,Bob,Training,Closed Won,Medium,5,9539.0,47695.0
+2023-09-16,East,David,Support Package,Closed Won,Medium,4,9235.8,36943.2
+2023-09-08,West,Bob,Hardware,Closed Won,Small,8,7601.9,60815.2
+2023-05-09,South,Eva,Consulting,Closed Won,Small,19,8165.52,155144.88
+2023-01-27,North,Henry,Consulting,Closed Won,Small,14,5349.42,74891.88
+2023-02-17,East,Bob,Support Package,Closed Won,Small,7,8030.03,56210.21
+2023-11-21,North,David,Training,Closed Won,Large,14,3364.56,47103.84
+2023-08-05,North,Alice,Software Liscense,Closed Won,Small,6,12175.03,73050.18
+2023-05-22,South,Grace,Support Package,Closed Lost,Medium,12,3193.77,0.0
+2023-01-23,West,Eva,Support Package,Closed Won,Small,16,1732.01,27712.16
+2023-01-02,South,Alice,Hardware,Closed Won,Medium,17,6825.57,116034.69
+2023-06-20,South,Alice,Consulting,Closed Won,Medium,13,10045.46,130590.98
+2023-03-08,South,Alice,Support Package,Closed Won,Large,14,6846.89,95856.46
+2023-11-23,South,Carol,Support Package,Closed Lost,Small,7,4512.93,0.0
+2023-05-15,East,Grace,Training,Closed Won,Small,14,8593.48,120308.72
+2023-03-24,West,Henry,Training,Closed Lost,Small,15,5531.53,0.0
+2023-08-15,North,Frank,Software Liscense,Closed Lost,Small,12,14026.58,0.0
+2023-10-10,North,Grace,Hardware,Closed Lost,Small,17,13878.35,0.0
+2023-12-28,West,Carol,Software Liscense,Closed Lost,Small,9,7784.39,0.0
+2023-08-07,North,Frank,Training,Closed Lost,Small,15,5254.32,0.0
+2023-10-15,West,Grace,Consulting,Closed Lost,Medium,12,11188.42,0.0
+2023-01-05,North,Alice,Training,Closed Won,Small,2,1032.34,2064.68
+2023-02-27,South,Eva,Hardware,Closed Won,Small,5,7384.15,36920.75
+2023-02-08,North,Frank,Training,Closed Won,Small,13,5376.69,69896.97
+2023-12-20,West,David,Hardware,Closed Won,Medium,8,13847.77,110782.16
+2023-03-18,West,David,Hardware,Closed Won,Large,14,674.04,9436.56
+2023-10-07,West,Bob,Hardware,Closed Won,Medium,15,8515.82,127737.3
+2023-01-19,West,Frank,Hardware,Closed Won,Medium,11,11239.62,123635.82
+2023-07-09,West,Eva,Hardware,Closed Won,Small,1,7532.76,7532.76
+2023-10-26,East,Henry,Consulting,Closed Won,Medium,3,1738.34,5215.02
+2023-10-10,East,Carol,Software Liscense,Closed Won,Small,17,14600.69,248211.73
+2023-03-17,North,Alice,Support Package,Closed Won,Small,19,8011.15,152211.85
+2023-08-09,West,Bob,Software Liscense,Closed Won,Medium,14,9405.7,131679.8
+2023-03-07,North,David,Hardware,Closed Won,Large,8,3930.84,31446.72
+2023-01-22,West,Carol,Consulting,Closed Lost,Small,13,7510.72,0.0
+2023-06-07,West,Carol,Training,Closed Won,Medium,3,6722.67,20168.01
+2023-07-06,East,Alice,Consulting,Closed Won,Medium,5,1585.99,7929.95
+2023-01-21,East,Henry,Hardware,Closed Lost,Small,9,2039.33,0.0
+2023-07-03,South,Henry,Consulting,Closed Won,Small,6,12643.35,75860.1
+2023-04-18,East,Frank,Consulting,Closed Won,Small,2,3977.39,7954.78
+2023-12-16,South,David,Hardware,Closed Lost,Small,13,3326.89,0.0
+2023-05-08,South,Henry,Consulting,Closed Lost,Small,5,7821.22,0.0
+2023-12-08,South,Eva,Support Package,Closed Won,Small,8,11646.83,93174.64
+2023-02-22,South,Henry,Support Package,Closed Won,Small,1,1398.22,1398.22
+2023-07-01,South,Carol,Consulting,Closed Lost,Medium,12,8863.71,0.0
+2023-10-14,North,Alice,Training,Closed Won,Medium,11,2228.55,24514.05
+2023-07-28,East,Eva,Hardware,Closed Won,Large,7,1028.69,7200.83
+2023-11-14,South,Frank,Support Package,Closed Lost,Small,15,1264.79,0.0
+2023-03-21,West,David,Training,Closed Won,Medium,11,12595.38,138549.18
+2023-05-02,East,Frank,Consulting,Closed Won,Large,16,2210.6,35369.6
+2023-03-25,East,Carol,Training,Closed Won,Medium,3,1154.69,3464.07
+2023-04-01,South,Eva,Software Liscense,Closed Lost,Small,14,6849.55,0.0
+2023-07-31,North,Eva,Support Package,Closed Won,Medium,3,12737.91,38213.73
+2023-01-13,South,Eva,Consulting,Closed Lost,Small,1,4304.92,0.0
+2023-04-02,North,Carol,Hardware,Closed Won,Small,15,6614.83,99222.45
+2023-06-20,West,Carol,Consulting,Closed Won,Medium,1,1078.88,1078.88
+2023-07-30,East,Frank,Hardware,Closed Won,Medium,17,7011.64,119197.88
+2023-12-09,West,Bob,Consulting,Closed Lost,Small,2,8875.39,0.0
+2023-05-08,North,Frank,Training,Closed Won,Large,6,8778.15,52668.9
+2023-05-17,North,David,Training,Closed Won,Medium,8,5320.19,42561.52
+2023-03-23,West,Alice,Training,Closed Lost,Small,16,5075.23,0.0
+2023-12-26,North,Eva,Software Liscense,Closed Won,Large,19,2046.04,38874.76
+2023-02-25,West,Bob,Hardware,Closed Lost,Small,1,5818.58,0.0
+2023-07-15,East,Alice,Training,Closed Won,Large,3,1942.67,5828.01
+2023-01-20,West,Bob,Software Liscense,Closed Lost,Medium,3,11615.64,0.0
+2023-08-29,East,Henry,Hardware,Closed Won,Small,5,14510.98,72554.9
+2023-04-24,West,Henry,Consulting,Closed Lost,Medium,12,14566.08,0.0
+2023-04-13,North,Grace,Software Liscense,Closed Won,Medium,12,13043.53,156522.36
+2023-08-24,West,Henry,Support Package,Closed Won,Medium,13,9211.49,119749.37
+2023-06-29,North,Frank,Software Liscense,Closed Won,Large,9,10662.55,95962.95
+2023-06-06,West,Henry,Software Liscense,Closed Won,Medium,7,4635.48,32448.36
+2023-04-27,West,Carol,Hardware,Closed Won,Medium,4,9646.17,38584.68
+2023-04-25,South,Eva,Consulting,Closed Lost,Large,19,7106.92,0.0
+2023-01-13,North,Frank,Support Package,Closed Won,Medium,19,7489.25,142295.75
+2023-12-04,South,Alice,Training,Closed Lost,Small,6,11487.76,0.0
+2023-04-09,North,Grace,Training,Closed Won,Large,13,4587.82,59641.66
+2023-07-24,South,Grace,Software Liscense,Closed Lost,Small,11,5111.57,0.0
+2023-06-18,East,Grace,Hardware,Closed Won,Medium,13,13907.31,180795.03
+2023-05-23,West,Alice,Hardware,Closed Won,Large,13,1315.25,17098.25
+2023-02-05,North,Alice,Training,Closed Lost,Medium,15,7541.7,0.0
+2023-05-23,North,Alice,Support Package,Closed Lost,Medium,13,13735.61,0.0
+2023-06-29,West,Alice,Consulting,Closed Won,Medium,11,9350.26,102852.86
+2023-11-25,North,Grace,Support Package,Closed Won,Small,19,8422.9,160035.1
+2023-09-18,North,Grace,Consulting,Closed Won,Large,8,4121.29,32970.32
+2023-07-24,South,Bob,Training,Closed Lost,Small,8,5477.49,0.0
+2023-12-14,North,Frank,Consulting,Closed Won,Small,10,12854.7,128547.0
+2023-10-02,East,Eva,Hardware,Closed Won,Small,16,8608.66,137738.56
+2023-06-19,East,Henry,Software Liscense,Closed Lost,Medium,19,7963.76,0.0
+2023-01-15,West,Henry,Software Liscense,Closed Won,Medium,11,1943.91,21383.01
+2023-03-01,North,Carol,Training,Closed Won,Medium,13,732.41,9521.33
+2023-05-14,West,Grace,Hardware,Closed Won,Small,9,14473.44,130260.96
+2023-04-02,East,Carol,Support Package,Closed Lost,Small,19,5966.3,0.0
+2023-10-25,North,Frank,Hardware,Closed Won,Small,16,9246.59,147945.44
+2023-05-16,North,Frank,Software Liscense,Closed Won,Small,7,1655.87,11591.09
+2023-01-20,West,Carol,Software Liscense,Closed Won,Medium,19,10405.16,197698.04
+2023-02-25,East,Grace,Hardware,Closed Won,Small,12,14022.22,168266.64
+2023-11-02,North,Carol,Hardware,Closed Won,Small,15,8847.15,132707.25
+2023-08-11,West,Henry,Software Liscense,Closed Won,Small,14,2328.67,32601.38
+2023-06-26,East,Bob,Support Package,Closed Won,Small,11,8934.96,98284.56
+2023-06-10,West,Henry,Training,Closed Won,Small,10,11612.03,116120.3
+2023-08-12,South,David,Training,Closed Won,Small,11,6393.04,70323.44
+2023-11-07,North,Grace,Hardware,Closed Won,Medium,6,13257.65,79545.9
+2023-09-19,South,Grace,Training,Closed Lost,Medium,2,9905.9,0.0
+2023-03-01,East,Eva,Software Liscense,Closed Won,Medium,11,13539.11,148930.21
+2023-07-17,South,Alice,Software Liscense,Closed Lost,Large,19,9540.83,0.0
+2023-10-23,South,David,Hardware,Closed Lost,Small,6,2403.68,0.0
+2023-04-08,East,Frank,Hardware,Closed Won,Medium,14,4990.53,69867.42
+2023-05-11,West,Grace,Hardware,Closed Won,Large,6,3426.03,20556.18
+2023-01-23,South,Carol,Support Package,Closed Won,Small,17,13677.98,232525.66
+2023-12-29,West,David,Training,Closed Won,Large,10,11525.8,115258.0
+2023-08-12,South,Eva,Hardware,Closed Won,Small,1,10307.78,10307.78
+2023-01-01,West,Frank,Consulting,Closed Won,Small,3,4864.01,14592.03
+2023-09-24,East,Alice,Consulting,Closed Won,Small,8,3168.65,25349.2
+2023-10-03,South,Alice,Software Liscense,Closed Lost,Medium,8,11468.54,0.0
+2023-12-18,East,Eva,Training,Closed Won,Medium,15,7375.29,110629.35
+2023-12-10,South,Eva,Hardware,Closed Lost,Medium,7,3773.95,0.0
+2023-04-11,East,Carol,Consulting,Closed Won,Small,11,9441.02,103851.22
+2023-07-06,East,Grace,Training,Closed Lost,Small,7,1084.84,0.0
+2023-08-09,South,Alice,Software Liscense,Closed Won,Small,4,5229.47,20917.88
+2023-02-05,South,Frank,Support Package,Closed Won,Small,12,7294.08,87528.96
+2023-12-07,South,David,Training,Closed Lost,Large,6,2645.4,0.0
+2023-06-19,North,Frank,Training,Closed Won,Small,14,14777.49,206884.86
+2023-11-16,West,Bob,Support Package,Closed Won,Medium,12,3531.91,42382.92
+2023-06-10,North,Bob,Training,Closed Lost,Medium,11,2390.12,0.0
+2023-12-06,North,Eva,Software Liscense,Closed Won,Small,19,3451.26,65573.94
+2023-03-05,East,Carol,Software Liscense,Closed Won,Medium,5,11651.39,58256.95
+2023-06-03,South,Bob,Support Package,Closed Lost,Small,14,6669.83,0.0
+2023-09-17,West,Alice,Hardware,Closed Lost,Small,16,8698.53,0.0
+2023-06-08,East,Frank,Consulting,Closed Lost,Small,13,804.63,0.0
+2023-12-08,North,Frank,Hardware,Closed Won,Medium,4,999.25,3997.0
+2023-07-29,South,Eva,Training,Closed Lost,Small,11,6964.47,0.0
+2023-06-17,East,Grace,Consulting,Closed Won,Medium,17,12341.5,209805.5
+2023-07-26,South,Grace,Support Package,Closed Lost,Medium,7,13335.96,0.0
+2023-12-23,East,David,Support Package,Closed Lost,Small,14,1757.25,0.0
+2023-06-01,South,Eva,Consulting,Closed Lost,Medium,11,8306.26,0.0
+2023-10-11,North,Henry,Software Liscense,Closed Lost,Medium,9,13741.83,0.0
+2023-03-07,West,David,Consulting,Closed Won,Small,13,6125.6,79632.8
+2023-04-09,North,Henry,Training,Closed Lost,Small,18,12528.7,0.0
+2023-08-04,West,Grace,Software Liscense,Closed Lost,Medium,11,2438.59,0.0
+2023-12-07,South,Eva,Support Package,Closed Won,Small,15,14063.22,210948.3
+2023-07-14,East,Henry,Consulting,Closed Lost,Medium,19,11395.64,0.0
+2023-12-13,North,Eva,Hardware,Closed Won,Small,1,14149.35,14149.35
+2023-03-31,West,Eva,Hardware,Closed Lost,Small,4,10310.95,0.0
+2023-11-12,North,Grace,Training,Closed Lost,Small,14,5769.36,0.0
+2023-10-19,West,David,Hardware,Closed Lost,Small,14,14103.63,0.0
+2023-06-04,North,David,Consulting,Closed Won,Medium,3,4495.72,13487.16
+2023-07-27,West,Eva,Consulting,Closed Won,Small,17,5316.5,90380.5
+2023-10-08,West,Bob,Hardware,Closed Won,Medium,3,10661.72,31985.16
+2023-01-01,South,Carol,Consulting,Closed Lost,Large,16,11597.09,0.0
+2023-06-05,West,Grace,Training,Closed Won,Medium,14,13976.35,195668.9
+2023-05-27,South,Carol,Software Liscense,Closed Won,Medium,13,3469.63,45105.19
+2023-04-18,West,Carol,Training,Closed Lost,Small,15,12070.97,0.0
+2023-08-09,East,David,Training,Closed Won,Small,14,11208.92,156924.88
+2023-10-24,East,David,Consulting,Closed Won,Medium,19,1425.02,27075.38
+2023-11-07,East,Bob,Software Liscense,Closed Won,Small,6,6114.74,36688.44
+2023-12-02,West,Carol,Consulting,Closed Lost,Medium,10,4600.1,0.0
+2023-06-14,South,Carol,Support Package,Closed Won,Small,15,4915.11,73726.65
+2023-08-27,South,Eva,Consulting,Closed Won,Medium,6,14752.73,88516.38
+2023-08-15,West,David,Consulting,Closed Won,Large,10,9820.27,98202.7
+2023-08-15,East,Carol,Consulting,Closed Won,Large,7,10906.3,76344.1
+2023-12-12,East,Frank,Software Liscense,Closed Won,Medium,17,14660.96,249236.32
+2023-04-20,South,Bob,Consulting,Closed Won,Medium,18,5969.43,107449.74
+2023-09-19,East,Henry,Software Liscense,Closed Won,Medium,17,12126.68,206153.56
+2023-08-31,North,Frank,Hardware,Closed Lost,Medium,9,6800.7,0.0
+2023-03-28,South,Frank,Support Package,Closed Won,Small,10,13108.24,131082.4
+2023-12-04,East,Henry,Software Liscense,Closed Lost,Small,10,3119.53,0.0
+2023-02-13,South,Grace,Hardware,Closed Lost,Small,7,14241.45,0.0
+2023-05-26,North,Grace,Software Liscense,Closed Lost,Large,16,3672.19,0.0
+2023-09-21,South,Bob,Software Liscense,Closed Lost,Small,18,5230.2,0.0
+2023-12-06,South,Frank,Support Package,Closed Won,Medium,6,11464.79,68788.74
+2023-11-21,South,Carol,Training,Closed Won,Medium,1,6209.45,6209.45
+2023-11-14,South,David,Training,Closed Won,Medium,1,9319.06,9319.06
+2023-06-21,North,Bob,Software Liscense,Closed Won,Medium,12,6946.32,83355.84
+2023-02-17,West,Eva,Consulting,Closed Lost,Small,2,11264.36,0.0
+2023-05-01,South,Henry,Hardware,Closed Lost,Medium,4,3810.8,0.0
+2023-12-11,South,Frank,Consulting,Closed Won,Medium,17,1347.64,22909.88
+2023-06-08,East,Bob,Consulting,Closed Won,Small,4,4848.98,19395.92
+2023-04-26,South,Alice,Software Liscense,Closed Lost,Small,11,7377.48,0.0
+2023-04-12,East,Alice,Software Liscense,Closed Won,Medium,4,2936.29,11745.16
+2023-03-17,West,Grace,Software Liscense,Closed Won,Medium,1,5644.56,5644.56
+2023-01-13,North,Henry,Software Liscense,Closed Lost,Small,7,6299.75,0.0
+2023-01-24,North,David,Training,Closed Won,Medium,18,1332.18,23979.24
+2023-05-06,West,Carol,Software Liscense,Closed Won,Medium,9,8957.96,80621.64
+2023-09-01,North,David,Training,Closed Won,Small,3,13322.98,39968.94
+2023-11-09,West,David,Training,Closed Lost,Large,8,2700.27,0.0
+2023-02-07,West,David,Software Liscense,Closed Won,Medium,19,9168.22,174196.18
+2023-08-22,West,Henry,Support Package,Closed Won,Medium,4,10138.72,40554.88
+2023-08-01,North,David,Hardware,Closed Won,Medium,18,6580.35,118446.3
+2023-11-19,East,Eva,Consulting,Closed Won,Small,11,10665.92,117325.12
+2023-10-22,West,Henry,Training,Closed Won,Small,14,6455.61,90378.54
+2023-04-10,South,Eva,Hardware,Closed Lost,Small,18,7817.24,0.0
+2023-12-23,North,Henry,Support Package,Closed Won,Small,16,606.62,9705.92
+2023-07-16,West,Grace,Consulting,Closed Lost,Small,3,10529.94,0.0
+2023-09-11,West,Bob,Consulting,Closed Won,Large,15,10089.47,151342.05
+2023-07-24,South,Alice,Training,Closed Won,Medium,4,1056.81,4227.24
+2023-05-05,East,David,Software Liscense,Closed Won,Medium,5,5839.63,29198.15
+2023-03-17,East,Grace,Support Package,Closed Won,Large,17,14695.96,249831.32
+2023-12-02,East,Bob,Training,Closed Won,Medium,7,6600.68,46204.76
+2023-12-19,West,Alice,Support Package,Closed Won,Small,16,7778.21,124451.36
+2023-01-03,West,Frank,Software Liscense,Closed Won,Small,14,13693.99,191715.86
+2023-02-24,West,Carol,Software Liscense,Closed Won,Medium,16,10900.3,174404.8
+2023-08-06,North,Eva,Training,Closed Won,Medium,7,8940.02,62580.14
+2023-04-23,South,Frank,Software Liscense,Closed Lost,Small,9,12068.17,0.0
+2023-04-01,West,Henry,Hardware,Closed Lost,Medium,4,13033.31,0.0
+2023-12-23,South,Alice,Consulting,Closed Won,Small,11,7124.88,78373.68
+2023-09-23,South,Frank,Training,Closed Won,Medium,2,7389.07,14778.14
+2023-08-26,East,Carol,Support Package,Closed Won,Medium,12,6097.74,73172.88
+2023-01-26,North,Grace,Hardware,Closed Won,Medium,12,14517.24,174206.88
+2023-10-13,West,Alice,Training,Closed Won,Large,4,10608.91,42435.64
+2023-05-08,East,Frank,Software Liscense,Closed Lost,Medium,18,1706.73,0.0
+2023-03-04,East,Eva,Software Liscense,Closed Won,Large,7,13012.91,91090.37
+2023-08-22,West,Eva,Software Liscense,Closed Won,Large,1,7468.12,7468.12
+2023-03-10,South,Bob,Software Liscense,Closed Lost,Medium,13,1496.93,0.0
+2023-08-26,East,Frank,Support Package,Closed Won,Medium,6,8470.9,50825.4
+2023-12-08,South,David,Hardware,Closed Lost,Small,6,6548.88,0.0
+2023-09-29,North,Frank,Consulting,Closed Won,Small,12,13227.37,158728.44
+2023-10-14,South,Grace,Support Package,Closed Won,Medium,8,3457.92,27663.36
+2023-11-01,North,Alice,Support Package,Closed Won,Small,19,12483.74,237191.06
+2023-06-12,South,Alice,Consulting,Closed Won,Small,5,8586.49,42932.45
+2023-08-15,East,Grace,Consulting,Closed Lost,Large,18,1291.85,0.0
+2023-11-10,East,Frank,Software Liscense,Closed Won,Large,5,14591.76,72958.8
+2023-09-16,North,Grace,Support Package,Closed Lost,Medium,10,7932.92,0.0
+2023-08-07,West,Carol,Training,Closed Won,Small,1,4717.71,4717.71
+2023-10-08,North,Henry,Consulting,Closed Won,Small,10,7306.4,73064.0
+2023-08-17,North,Grace,Consulting,Closed Won,Small,5,12938.94,64694.7
+2023-03-23,South,Eva,Hardware,Closed Won,Small,12,4921.1,59053.2
+2023-09-01,South,Grace,Training,Closed Lost,Small,7,3293.81,0.0
+2023-08-19,North,Alice,Training,Closed Won,Small,9,2371.53,21343.77
+2023-05-13,East,Eva,Consulting,Closed Won,Large,12,4818.96,57827.52
+2023-05-07,South,Alice,Software Liscense,Closed Won,Medium,1,11810.7,11810.7
+2023-11-23,West,Bob,Hardware,Closed Won,Small,11,7338.58,80724.38
+2023-05-22,South,David,Training,Closed Won,Small,15,3798.48,56977.2
+2023-09-24,South,Alice,Consulting,Closed Won,Medium,2,2909.68,5819.36
+2023-09-06,West,Eva,Training,Closed Lost,Small,7,5324.58,0.0
+2023-11-17,North,Bob,Hardware,Closed Won,Large,12,14128.9,169546.8
+2023-05-03,West,Alice,Hardware,Closed Won,Small,18,5473.89,98530.02
+2023-05-21,North,Carol,Support Package,Closed Won,Small,3,14827.8,44483.4
+2023-08-14,North,Grace,Consulting,Closed Won,Small,7,7535.84,52750.88
+2023-02-09,North,David,Hardware,Closed Lost,Small,11,3097.88,0.0
+2023-05-27,West,Alice,Support Package,Closed Won,Medium,18,13421.53,241587.54
+2023-05-01,North,Bob,Support Package,Closed Won,Medium,12,7175.15,86101.8
+2023-05-20,East,Carol,Training,Closed Won,Medium,6,10790.23,64741.38
+2023-06-21,West,Frank,Training,Closed Won,Small,5,14763.82,73819.1
+2023-06-13,East,Bob,Support Package,Closed Won,Medium,1,1227.54,1227.54
+2023-10-04,North,Grace,Training,Closed Lost,Medium,12,1902.07,0.0
+2023-02-11,South,Bob,Hardware,Closed Lost,Large,11,10946.62,0.0
+2023-03-12,North,Carol,Software Liscense,Closed Lost,Small,4,4586.46,0.0
+2023-03-19,East,Bob,Hardware,Closed Won,Small,18,3172.37,57102.66
+2023-04-29,East,Carol,Support Package,Closed Won,Medium,4,1070.75,4283.0
+2023-07-16,West,Alice,Support Package,Closed Won,Medium,17,816.78,13885.26
+2023-12-22,South,Henry,Hardware,Closed Won,Small,2,11730.04,23460.08
+2023-03-20,West,Carol,Training,Closed Lost,Small,2,2449.28,0.0
+2023-12-28,East,Carol,Training,Closed Won,Small,12,7281.95,87383.4
+2023-04-20,North,David,Support Package,Closed Lost,Large,6,9285.5,0.0
+2023-02-02,South,Carol,Consulting,Closed Lost,Small,10,6711.1,0.0
+2023-08-01,North,Carol,Training,Closed Won,Large,16,893.05,14288.8
+2023-07-28,North,Frank,Hardware,Closed Won,Medium,14,11860.77,166050.78
+2023-06-19,South,Henry,Training,Closed Lost,Large,7,652.44,0.0
+2023-10-05,West,Alice,Hardware,Closed Won,Medium,19,11547.4,219400.6
+2023-08-27,North,Grace,Support Package,Closed Lost,Small,17,13452.92,0.0
+2023-08-01,East,David,Training,Closed Won,Large,9,6776.18,60985.62
+2023-02-01,North,Frank,Hardware,Closed Won,Small,13,8265.37,107449.81
+2023-04-16,South,Eva,Support Package,Closed Won,Large,5,7416.26,37081.3
+2023-08-04,South,Henry,Consulting,Closed Lost,Medium,5,6143.52,0.0
+2023-07-19,South,Alice,Hardware,Closed Won,Small,10,13367.66,133676.6
+2023-10-27,West,Alice,Consulting,Closed Lost,Medium,10,13462.04,0.0
+2023-12-23,North,Eva,Consulting,Closed Won,Large,7,5369.34,37585.38
+2023-01-11,West,Grace,Software Liscense,Closed Lost,Small,15,9418.51,0.0
+2023-10-22,West,Carol,Training,Closed Lost,Medium,7,13940.16,0.0
+2023-07-14,South,Frank,Hardware,Closed Won,Medium,15,14449.85,216747.75
+2023-09-02,South,Bob,Consulting,Closed Won,Medium,3,7879.91,23639.73
+2023-01-04,West,David,Software Liscense,Closed Lost,Small,19,7065.96,0.0
+2023-06-30,North,Bob,Support Package,Closed Won,Small,10,4541.07,45410.7
+2023-06-02,East,Eva,Hardware,Closed Lost,Small,15,14403.64,0.0
+2023-07-19,West,Alice,Consulting,Closed Won,Medium,3,2570.81,7712.43
+2023-08-03,North,Grace,Training,Closed Lost,Small,6,8907.53,0.0
+2023-10-03,South,Alice,Software Liscense,Closed Lost,Large,12,4596.98,0.0
+2023-10-07,South,David,Consulting,Closed Lost,Small,15,4545.62,0.0
+2023-11-05,North,Alice,Training,Closed Won,Medium,6,6372.04,38232.24
+2023-04-23,East,Alice,Consulting,Closed Won,Small,13,14982.5,194772.5
+2023-09-07,South,David,Hardware,Closed Won,Small,19,1297.01,24643.19
+2023-04-23,South,Frank,Hardware,Closed Won,Small,3,8888.86,26666.58
+2023-05-20,South,Frank,Hardware,Closed Won,Small,8,1697.3,13578.4
+2023-08-12,North,David,Software Liscense,Closed Won,Medium,8,2740.55,21924.4
+2023-09-06,West,Grace,Hardware,Closed Lost,Large,15,6873.66,0.0
+2023-01-15,South,Eva,Training,Closed Won,Medium,4,7901.67,31606.68
+2023-07-19,West,Henry,Consulting,Closed Won,Large,19,4252.49,80797.31
+2023-06-22,East,Alice,Support Package,Closed Lost,Large,3,5088.63,0.0
+2023-12-09,South,Grace,Training,Closed Won,Medium,13,1761.02,22893.26
+2023-12-14,South,Alice,Training,Closed Won,Medium,8,4896.69,39173.52
+2023-07-27,East,Henry,Hardware,Closed Lost,Medium,16,14515.1,0.0
+2023-03-26,South,Eva,Software Liscense,Closed Lost,Small,13,14198.26,0.0
+2023-08-28,West,Frank,Consulting,Closed Won,Medium,3,5355.74,16067.22
+2023-03-07,North,Grace,Software Liscense,Closed Won,Small,16,8777.38,140438.08
+2023-11-15,West,Carol,Consulting,Closed Lost,Medium,9,13689.13,0.0
+2023-10-01,North,Carol,Consulting,Closed Won,Medium,14,589.67,8255.38
+2023-01-14,North,Henry,Software Liscense,Closed Won,Small,13,12254.91,159313.83
+2023-07-21,West,Carol,Training,Closed Won,Small,7,14251.36,99759.52
+2023-10-31,West,Frank,Consulting,Closed Won,Large,15,1824.22,27363.3
+2023-10-16,West,Henry,Software Liscense,Closed Won,Medium,7,2840.99,19886.93
+2023-12-06,West,Frank,Consulting,Closed Won,Small,6,14430.82,86584.92
+2023-01-14,East,Eva,Support Package,Closed Won,Medium,2,8294.33,16588.66
+2023-02-12,South,Alice,Training,Closed Lost,Medium,9,705.85,0.0
+2023-11-26,North,Eva,Hardware,Closed Won,Medium,17,4235.66,72006.22
+2023-08-08,West,Eva,Consulting,Closed Lost,Large,5,7024.18,0.0
+2023-03-11,West,Frank,Support Package,Closed Lost,Medium,12,10547.18,0.0
+2023-08-25,West,Henry,Hardware,Closed Won,Small,1,11130.83,11130.83
+2023-04-04,East,Henry,Hardware,Closed Won,Medium,10,14933.61,149336.1
+2023-01-26,West,Carol,Consulting,Closed Won,Large,11,4668.91,51358.01
+2023-05-14,West,Bob,Software Liscense,Closed Won,Small,16,8304.19,132867.04
+2023-07-14,West,Alice,Consulting,Closed Lost,Small,14,8233.19,0.0
+2023-06-17,South,Frank,Support Package,Closed Won,Small,8,6381.86,51054.88
+2023-04-19,East,Carol,Hardware,Closed Lost,Medium,17,2952.85,0.0
+2023-08-21,West,Grace,Consulting,Closed Won,Medium,18,14673.12,264116.16
+2023-06-17,North,Bob,Software Liscense,Closed Won,Medium,12,12873.1,154477.2
+2023-06-22,North,Bob,Consulting,Closed Won,Large,17,7725.83,131339.11
+2023-07-14,North,Frank,Training,Closed Won,Medium,14,9247.06,129458.84
+2023-05-23,East,David,Software Liscense,Closed Won,Small,16,3795.29,60724.64
+2023-08-04,East,Alice,Support Package,Closed Won,Small,14,8384.91,117388.74
+2023-05-10,North,Bob,Hardware,Closed Won,Small,9,10577.07,95193.63
+2023-02-11,West,Frank,Consulting,Closed Won,Small,4,7969.92,31879.68
+2023-08-29,East,Frank,Software Liscense,Closed Lost,Medium,11,14859.13,0.0
+2023-01-10,North,Carol,Training,Closed Won,Large,6,9364.45,56186.7
+2023-10-04,North,Grace,Software Liscense,Closed Lost,Small,15,5879.12,0.0
+2023-01-27,West,David,Training,Closed Lost,Medium,5,11696.2,0.0
+2023-06-29,South,Alice,Support Package,Closed Lost,Medium,11,2971.71,0.0
+2023-04-25,East,Henry,Hardware,Closed Won,Small,18,6075.48,109358.64
+2023-11-29,West,Eva,Support Package,Closed Lost,Small,13,5530.9,0.0
+2023-02-05,North,Grace,Consulting,Closed Won,Small,11,6761.2,74373.2
+2023-11-30,North,Grace,Software Liscense,Closed Won,Small,14,11835.81,165701.34
+2023-01-21,West,Carol,Training,Closed Won,Large,18,7520.51,135369.18
+2023-01-16,East,Henry,Training,Closed Lost,Small,19,12013.21,0.0
+2023-05-07,South,Bob,Software Liscense,Closed Won,Small,15,8859.09,132886.35
+2023-04-13,South,Bob,Software Liscense,Closed Lost,Medium,9,5460.01,0.0
+2023-01-11,North,Carol,Consulting,Closed Won,Large,8,12244.69,97957.52
+2023-11-15,East,Frank,Support Package,Closed Lost,Small,1,3955.2,0.0
+2023-03-20,South,Bob,Training,Closed Lost,Small,4,3753.55,0.0
+2023-05-03,East,David,Consulting,Closed Won,Small,14,7815.29,109414.06
+2023-03-06,East,Alice,Support Package,Closed Lost,Small,2,4282.31,0.0
+2023-08-31,North,Grace,Consulting,Closed Won,Small,16,631.76,10108.16
+2023-12-09,South,Grace,Training,Closed Won,Medium,3,9900.31,29700.93
+2023-02-28,West,David,Software Liscense,Closed Won,Small,8,7910.86,63286.88
+2023-10-16,North,Henry,Software Liscense,Closed Won,Small,6,6960.01,41760.06
+2023-04-22,South,Bob,Support Package,Closed Won,Medium,16,14521.04,232336.64
+2023-08-27,South,Grace,Hardware,Closed Won,Small,16,8782.39,140518.24
+2023-12-25,South,Eva,Support Package,Closed Won,Small,7,13019.76,91138.32
+2023-05-12,South,Henry,Hardware,Closed Lost,Small,13,2522.03,0.0
+2023-07-08,South,Alice,Consulting,Closed Lost,Large,13,8753.49,0.0
+2023-03-27,East,Alice,Consulting,Closed Lost,Small,5,13085.7,0.0
+2023-11-07,North,Grace,Training,Closed Lost,Large,18,8955.03,0.0
+2023-11-07,East,Carol,Hardware,Closed Lost,Medium,15,10911.21,0.0
+2023-02-28,West,Henry,Training,Closed Won,Small,18,5894.63,106103.34
+2023-03-25,South,Grace,Software Liscense,Closed Won,Large,2,1840.52,3681.04
+2023-06-09,North,Carol,Hardware,Closed Lost,Small,10,7139.55,0.0
+2023-02-25,South,Grace,Support Package,Closed Won,Small,13,6219.95,80859.35
+2023-10-24,North,Eva,Software Liscense,Closed Lost,Medium,18,13072.37,0.0
+2023-01-14,East,Henry,Software Liscense,Closed Won,Medium,15,4037.93,60568.95
+2023-06-09,North,Frank,Support Package,Closed Won,Medium,12,14517.65,174211.8
+2023-10-22,West,Alice,Software Liscense,Closed Won,Small,15,14393.0,215895.0
+2023-12-13,West,Grace,Hardware,Closed Won,Small,13,4090.66,53178.58
+2023-07-12,North,Eva,Training,Closed Won,Medium,18,5546.75,99841.5
+2023-07-23,North,Carol,Software Liscense,Closed Lost,Small,15,13485.56,0.0
+2023-04-12,North,Carol,Hardware,Closed Won,Small,11,14516.02,159676.22
+2023-02-08,North,Alice,Consulting,Closed Won,Small,19,6929.87,131667.53
+2023-10-31,West,David,Hardware,Closed Lost,Small,3,5154.46,0.0
+2023-12-20,South,Grace,Training,Closed Lost,Large,7,8128.36,0.0
+2023-11-18,North,Henry,Hardware,Closed Won,Small,14,10472.65,146617.1
+2023-05-05,North,Bob,Support Package,Closed Lost,Large,14,4465.38,0.0
+2023-02-22,West,Carol,Training,Closed Won,Small,13,11178.86,145325.18
+2023-12-23,West,Henry,Consulting,Closed Won,Medium,12,1249.03,14988.36
+2023-06-04,East,Henry,Support Package,Closed Won,Small,9,1214.77,10932.93
+2023-12-17,North,Frank,Hardware,Closed Lost,Small,1,6101.17,0.0
+2023-11-04,East,Henry,Training,Closed Lost,Small,19,5625.36,0.0
+2023-03-03,West,Henry,Consulting,Closed Won,Small,11,5076.68,55843.48
+2023-10-17,West,Frank,Support Package,Closed Lost,Medium,19,7619.79,0.0
+2023-01-22,South,Carol,Consulting,Closed Won,Large,18,5150.64,92711.52
+2023-06-27,North,Henry,Hardware,Closed Won,Medium,12,3287.74,39452.88
+2023-09-30,East,David,Consulting,Closed Won,Small,1,4987.31,4987.31
+2023-08-08,West,David,Software Liscense,Closed Won,Small,19,14636.11,278086.09
+2023-12-05,West,Eva,Support Package,Closed Won,Small,17,6461.14,109839.38
+2023-07-09,East,Frank,Consulting,Closed Won,Medium,5,6948.34,34741.7
+2023-02-05,South,Eva,Hardware,Closed Lost,Medium,3,8859.9,0.0
+2023-09-17,West,Frank,Hardware,Closed Won,Large,2,14758.44,29516.88
+2023-11-28,North,Grace,Consulting,Closed Won,Small,3,4003.22,12009.66
+2023-06-24,West,Grace,Hardware,Closed Won,Medium,8,10378.59,83028.72
+2023-01-07,North,Henry,Training,Closed Won,Small,16,10881.78,174108.48
+2023-08-04,East,Bob,Training,Closed Won,Medium,6,9306.2,55837.2
+2023-09-08,North,Grace,Training,Closed Lost,Medium,13,1784.39,0.0
+2023-02-24,East,Bob,Software Liscense,Closed Won,Medium,16,10314.65,165034.4
+2023-08-10,North,Grace,Consulting,Closed Lost,Medium,16,1429.37,0.0
+2023-07-05,East,Alice,Software Liscense,Closed Lost,Small,3,9144.07,0.0
+2023-11-22,North,Grace,Hardware,Closed Won,Medium,13,11223.93,145911.09
+2023-08-24,South,Eva,Software Liscense,Closed Lost,Small,14,3559.06,0.0
+2023-12-29,North,Carol,Hardware,Closed Won,Medium,8,12703.52,101628.16
+2023-03-20,North,Henry,Hardware,Closed Won,Small,12,940.13,11281.56
+2023-08-11,South,Eva,Support Package,Closed Won,Medium,8,12735.29,101882.32
+2023-04-01,West,Carol,Training,Closed Won,Large,9,7174.77,64572.93
+2023-09-25,West,David,Hardware,Closed Won,Large,1,3655.03,3655.03
+2023-11-30,North,Eva,Support Package,Closed Won,Medium,6,2439.78,14638.68
+2023-05-19,South,David,Training,Closed Won,Medium,19,14322.95,272136.05
+2023-11-12,North,Bob,Hardware,Closed Won,Medium,11,1553.65,17090.15
+2023-10-03,East,Bob,Hardware,Closed Won,Medium,11,3386.85,37255.35
+2023-09-05,East,Alice,Software Liscense,Closed Lost,Large,13,5543.42,0.0
+2023-08-27,North,Grace,Software Liscense,Closed Lost,Small,11,9493.41,0.0
+2023-08-12,West,Eva,Training,Closed Won,Large,18,8399.62,151193.16
+2023-10-31,West,David,Hardware,Closed Won,Large,15,2321.83,34827.45
+2023-05-18,North,Carol,Consulting,Closed Lost,Medium,1,4701.06,0.0
+2023-06-15,North,Bob,Software Liscense,Closed Lost,Small,7,3961.9,0.0
+2023-05-06,East,Grace,Training,Closed Lost,Small,13,3596.37,0.0
+2023-02-14,West,Bob,Hardware,Closed Won,Large,12,6461.59,77539.08
+2023-05-23,North,Carol,Hardware,Closed Won,Small,18,10708.46,192752.28
+2023-08-19,East,Grace,Consulting,Closed Won,Large,19,3653.07,69408.33
+2023-05-05,West,Grace,Training,Closed Won,Small,15,5816.84,87252.6
+2023-08-26,South,David,Hardware,Closed Lost,Small,8,6168.3,0.0
+2023-10-19,East,David,Software Liscense,Closed Lost,Large,19,14658.62,0.0
+2023-11-09,West,Eva,Consulting,Closed Won,Medium,10,14342.66,143426.6
+2023-12-09,West,Eva,Training,Closed Lost,Medium,7,12101.99,0.0
+2023-07-14,East,Frank,Consulting,Closed Won,Medium,18,4004.05,72072.9
+2023-06-22,South,Henry,Software Liscense,Closed Won,Small,16,1486.54,23784.64
+2023-01-15,East,Frank,Training,Closed Won,Medium,6,5095.11,30570.66
+2023-09-11,West,Alice,Consulting,Closed Lost,Small,9,4368.52,0.0
+2023-06-16,North,Bob,Support Package,Closed Won,Large,13,7835.92,101866.96
+2023-04-04,North,Eva,Software Liscense,Closed Lost,Large,8,11777.05,0.0
+2023-09-07,East,David,Software Liscense,Closed Lost,Small,16,12945.68,0.0
+2023-04-19,West,Carol,Software Liscense,Closed Won,Medium,13,12750.53,165756.89
+2023-07-01,North,David,Support Package,Closed Won,Medium,13,5715.3,74298.9
+2023-05-13,West,Bob,Support Package,Closed Lost,Small,17,10464.9,0.0
+2023-06-24,East,Frank,Hardware,Closed Won,Large,5,5036.1,25180.5
+2023-05-24,North,David,Consulting,Closed Lost,Small,17,1383.13,0.0
+2023-11-02,West,Henry,Hardware,Closed Lost,Small,9,10672.7,0.0
+2023-12-26,North,Alice,Consulting,Closed Won,Medium,2,642.5,1285.0
+2023-05-22,East,Bob,Support Package,Closed Won,Medium,18,6433.15,115796.7
+2023-10-12,West,Frank,Support Package,Closed Lost,Medium,9,5276.0,0.0
+2023-01-06,North,Henry,Hardware,Closed Lost,Medium,6,10553.97,0.0
+2023-09-22,East,Carol,Training,Closed Won,Medium,11,11610.56,127716.16
+2023-04-08,North,Frank,Hardware,Closed Won,Medium,6,4909.37,29456.22
+2023-02-13,North,Grace,Consulting,Closed Won,Small,6,12268.59,73611.54
+2023-05-04,South,Henry,Hardware,Closed Lost,Small,13,4761.79,0.0
+2023-07-28,South,Henry,Software Liscense,Closed Lost,Small,11,6971.73,0.0
+2023-09-08,East,Alice,Consulting,Closed Lost,Small,14,11041.77,0.0
+2023-10-12,South,Bob,Consulting,Closed Won,Medium,2,10547.34,21094.68
+2023-05-04,East,Carol,Training,Closed Won,Small,8,14816.84,118534.72
+2023-12-20,South,Alice,Support Package,Closed Lost,Small,3,3764.83,0.0
+2023-09-01,North,Frank,Consulting,Closed Won,Small,3,10103.61,30310.83
+2023-11-27,East,Alice,Support Package,Closed Won,Large,1,9340.39,9340.39
+2023-12-31,East,Henry,Hardware,Closed Won,Large,19,13768.93,261609.67
+2023-09-09,North,Bob,Software Liscense,Closed Lost,Medium,18,2767.25,0.0
+2023-08-18,East,Eva,Training,Closed Lost,Large,17,11401.07,0.0
+2023-01-09,East,Alice,Support Package,Closed Won,Medium,13,8739.89,113618.57
+2023-02-17,South,Grace,Consulting,Closed Won,Medium,3,4482.66,13447.98
+2023-05-31,East,Alice,Support Package,Closed Won,Small,1,7379.31,7379.31
+2023-04-24,West,Frank,Consulting,Closed Lost,Medium,4,5339.76,0.0
+2023-07-27,North,Frank,Support Package,Closed Won,Medium,13,8900.04,115700.52
+2023-12-21,South,Carol,Consulting,Closed Won,Medium,17,13390.51,227638.67
+2023-05-05,South,Frank,Hardware,Closed Won,Medium,11,8754.92,96304.12
+2023-06-06,West,David,Consulting,Closed Lost,Medium,2,9659.98,0.0
+2023-12-06,North,Bob,Consulting,Closed Won,Medium,16,8021.84,128349.44
+2023-10-25,North,Bob,Software Liscense,Closed Won,Large,2,1241.9,2483.8
+2023-07-08,South,Eva,Consulting,Closed Won,Small,19,3876.45,73652.55
+2023-08-31,East,Eva,Software Liscense,Closed Lost,Medium,19,7634.03,0.0
+2023-10-11,South,Bob,Training,Closed Won,Small,16,4998.41,79974.56
+2023-09-29,North,Grace,Software Liscense,Closed Lost,Medium,19,3135.57,0.0
+2023-06-26,West,Eva,Hardware,Closed Won,Medium,9,7809.93,70289.37
+2023-08-06,South,Carol,Software Liscense,Closed Won,Small,1,5180.74,5180.74
+2023-10-09,North,Frank,Training,Closed Won,Medium,10,4242.56,42425.6
+2023-06-19,South,Bob,Hardware,Closed Lost,Small,19,7227.79,0.0
+2023-06-30,East,Henry,Support Package,Closed Won,Medium,1,2432.62,2432.62
+2023-12-26,South,Eva,Support Package,Closed Lost,Small,2,13952.31,0.0
+2023-08-21,South,Bob,Software Liscense,Closed Lost,Medium,16,13081.68,0.0
+2023-05-19,North,David,Software Liscense,Closed Won,Small,12,10760.5,129126.0
+2023-06-06,North,Alice,Training,Closed Lost,Medium,8,2040.1,0.0
+2023-05-09,North,Frank,Training,Closed Lost,Small,18,11750.22,0.0
+2023-04-29,South,Bob,Consulting,Closed Won,Large,2,12215.38,24430.76
+2023-03-03,East,Alice,Training,Closed Won,Large,13,11632.59,151223.67
+2023-04-09,West,Eva,Consulting,Closed Lost,Large,6,2152.51,0.0
+2023-06-11,West,Alice,Hardware,Closed Won,Medium,6,9836.67,59020.02
+2023-03-03,North,Frank,Software Liscense,Closed Lost,Medium,9,12597.71,0.0
+2023-10-02,North,Bob,Hardware,Closed Lost,Small,16,8871.62,0.0
+2023-12-20,South,David,Training,Closed Won,Small,11,9872.91,108602.01
+2023-04-05,West,Grace,Hardware,Closed Lost,Small,7,7146.27,0.0
+2023-04-09,North,Eva,Hardware,Closed Won,Medium,10,8166.26,81662.6
+2023-04-21,East,Bob,Hardware,Closed Won,Large,10,998.46,9984.6
+2023-09-05,East,Frank,Training,Closed Won,Small,18,9764.96,175769.28
+2023-05-22,North,Eva,Hardware,Closed Won,Large,9,1680.98,15128.82
+2023-10-29,North,Carol,Consulting,Closed Lost,Medium,15,6807.71,0.0
+2023-09-26,West,Alice,Training,Closed Lost,Medium,4,4743.5,0.0
+2023-11-02,West,Grace,Hardware,Closed Lost,Small,8,8408.71,0.0
+2023-05-25,South,Frank,Training,Closed Won,Small,9,2434.54,21910.86
+2023-02-21,West,Carol,Support Package,Closed Won,Medium,13,10528.83,136874.79
+2023-04-10,East,Henry,Consulting,Closed Lost,Medium,9,12027.67,0.0
+2023-06-01,East,Bob,Hardware,Closed Won,Small,4,2868.64,11474.56
+2023-04-27,North,David,Support Package,Closed Lost,Medium,17,2012.54,0.0
+2023-07-04,West,Eva,Support Package,Closed Lost,Large,16,2609.97,0.0
+2023-04-02,South,Alice,Training,Closed Lost,Medium,15,13218.35,0.0
+2023-06-04,East,Eva,Support Package,Closed Lost,Large,3,8158.74,0.0
+2023-01-08,East,Grace,Consulting,Closed Won,Small,5,7275.28,36376.4
+2023-12-29,South,Bob,Consulting,Closed Lost,Small,5,2047.32,0.0
+2023-10-01,South,Eva,Software Liscense,Closed Won,Medium,15,9918.56,148778.4
+2023-03-06,East,Alice,Consulting,Closed Lost,Small,18,13085.99,0.0
+2023-05-21,East,Bob,Support Package,Closed Won,Small,15,12508.7,187630.5
+2023-01-24,South,Eva,Consulting,Closed Lost,Small,2,9577.79,0.0
+2023-01-28,East,David,Training,Closed Lost,Small,13,1591.54,0.0
+2023-10-11,North,Frank,Software Liscense,Closed Won,Small,4,2129.76,8519.04
+2023-05-30,North,Bob,Support Package,Closed Won,Small,10,1214.98,12149.8
+2023-12-24,South,Frank,Software Liscense,Closed Lost,Small,13,4233.45,0.0
+2023-03-06,West,Henry,Support Package,Closed Won,Small,10,2467.09,24670.9
+2023-11-23,South,Bob,Training,Closed Won,Medium,9,4270.7,38436.3
+2023-09-09,South,David,Software Liscense,Closed Won,Medium,8,6083.34,48666.72
+2023-02-22,West,Frank,Hardware,Closed Won,Medium,3,14173.25,42519.75
+2023-01-07,West,Carol,Support Package,Closed Lost,Small,16,9350.45,0.0
+2023-10-21,West,Alice,Hardware,Closed Won,Small,14,12607.12,176499.68
+2023-05-26,North,Carol,Software Liscense,Closed Won,Medium,9,10800.1,97200.9
+2023-08-29,East,Eva,Hardware,Closed Won,Medium,11,2131.3,23444.3
+2023-09-03,North,David,Hardware,Closed Won,Medium,3,11170.85,33512.55
+2023-08-14,East,Carol,Software Liscense,Closed Won,Small,5,4488.93,22444.65
+2023-06-24,North,Bob,Training,Closed Won,Large,10,9767.06,97670.6
+2023-04-05,East,Eva,Hardware,Closed Won,Small,13,5443.95,70771.35
+2023-01-27,North,Eva,Hardware,Closed Won,Small,4,14966.25,59865.0
+2023-05-10,West,Carol,Training,Closed Lost,Medium,13,4321.5,0.0
+2023-09-02,South,Henry,Hardware,Closed Won,Medium,12,4547.39,54568.68
+2023-02-28,North,Carol,Hardware,Closed Won,Small,5,13994.75,69973.75
+2023-02-03,East,Henry,Hardware,Closed Won,Small,10,857.34,8573.4
+2023-07-25,West,David,Consulting,Closed Won,Medium,9,10601.99,95417.91
+2023-09-09,North,Alice,Training,Closed Lost,Small,7,11017.23,0.0
+2023-02-07,North,Carol,Hardware,Closed Won,Small,2,12627.49,25254.98
+2023-10-23,West,Grace,Training,Closed Lost,Small,7,14629.37,0.0
+2023-11-19,North,Henry,Support Package,Closed Lost,Medium,8,14646.23,0.0
+2023-12-18,South,Carol,Support Package,Closed Won,Small,7,1446.51,10125.57
+2023-01-28,North,Frank,Hardware,Closed Lost,Large,14,12416.67,0.0
+2023-03-19,South,Bob,Training,Closed Won,Medium,19,9871.49,187558.31
+2023-03-18,South,Grace,Training,Closed Won,Large,5,9886.46,49432.3
+2023-10-16,West,Grace,Training,Closed Won,Large,18,2361.07,42499.26
+2023-06-05,North,Henry,Consulting,Closed Won,Small,12,9927.71,119132.52
+2023-02-13,West,Frank,Support Package,Closed Lost,Small,17,14746.0,0.0
+2023-05-08,North,Frank,Training,Closed Lost,Small,13,13721.37,0.0
+2023-03-02,North,Eva,Training,Closed Lost,Small,2,6867.39,0.0
+2023-10-13,East,Henry,Consulting,Closed Won,Medium,13,1079.25,14030.25
+2023-08-02,North,Alice,Consulting,Closed Won,Small,7,5753.26,40272.82
+2023-11-07,West,Bob,Training,Closed Won,Small,10,12482.66,124826.6
+2023-11-02,South,David,Software Liscense,Closed Lost,Small,6,10671.74,0.0
+2023-11-13,North,Grace,Training,Closed Won,Large,3,7160.48,21481.44
+2023-04-26,East,David,Training,Closed Lost,Small,3,1298.97,0.0
+2023-09-25,West,Carol,Consulting,Closed Won,Small,18,6689.97,120419.46
+2023-07-14,North,Carol,Consulting,Closed Won,Small,11,7300.86,80309.46
+2023-08-19,West,David,Training,Closed Lost,Large,5,13964.06,0.0
+2023-08-15,East,Carol,Training,Closed Won,Medium,19,9795.75,186119.25
+2023-06-02,East,Alice,Training,Closed Won,Small,19,5018.97,95360.43
+2023-10-29,West,Frank,Consulting,Closed Lost,Small,15,8117.11,0.0
+2023-08-08,North,Carol,Training,Closed Won,Small,16,1457.8,23324.8
+2023-06-06,South,Eva,Training,Closed Lost,Small,9,14602.24,0.0
+2023-10-19,East,Carol,Hardware,Closed Won,Large,4,5720.87,22883.48
+2023-11-14,North,Bob,Software Liscense,Closed Lost,Medium,15,7429.08,0.0
+2023-01-31,North,Alice,Support Package,Closed Lost,Small,12,5651.62,0.0
+2023-11-09,South,Bob,Software Liscense,Closed Won,Large,3,10396.42,31189.26
+2023-02-20,East,Bob,Hardware,Closed Won,Small,14,10102.37,141433.18
+2023-04-17,East,Eva,Support Package,Closed Lost,Medium,17,10872.17,0.0
+2023-11-17,North,Alice,Training,Closed Won,Large,19,4388.08,83373.52
+2023-04-19,North,Alice,Hardware,Closed Lost,Small,6,5077.19,0.0
+2023-05-16,South,Henry,Training,Closed Won,Medium,4,2316.14,9264.56
+2023-12-05,South,Alice,Consulting,Closed Won,Small,7,10004.89,70034.23
+2023-02-11,East,Alice,Hardware,Closed Lost,Small,19,1077.06,0.0
+2023-03-22,West,Alice,Consulting,Closed Lost,Small,17,9166.39,0.0
+2023-05-03,East,Eva,Hardware,Closed Won,Small,16,13110.59,209769.44
+2023-03-30,North,Carol,Hardware,Closed Lost,Medium,15,13417.07,0.0
+2023-10-10,East,Henry,Consulting,Closed Won,Large,8,7011.05,56088.4
+2023-02-08,West,Bob,Support Package,Closed Won,Medium,19,7159.9,136038.1
+2023-03-22,South,Alice,Software Liscense,Closed Lost,Large,8,1616.05,0.0
+2023-01-02,West,Grace,Training,Closed Lost,Medium,18,10226.09,0.0
+2023-07-29,West,Carol,Hardware,Closed Lost,Small,16,12408.26,0.0
+2023-08-19,West,Carol,Training,Closed Won,Small,19,4047.5,76902.5
+2023-12-19,South,Bob,Consulting,Closed Won,Small,10,6608.86,66088.6
+2023-11-01,West,Eva,Training,Closed Won,Medium,17,12663.17,215273.89
+2023-08-29,West,David,Consulting,Closed Won,Large,13,13218.25,171837.25
+2023-05-30,West,David,Training,Closed Won,Small,13,4026.11,52339.43
+2023-01-17,North,Carol,Software Liscense,Closed Lost,Medium,7,8483.27,0.0
+2023-04-29,West,Frank,Software Liscense,Closed Won,Medium,10,3291.15,32911.5
+2023-05-28,South,Frank,Software Liscense,Closed Lost,Medium,2,1977.24,0.0
+2023-12-28,West,Bob,Software Liscense,Closed Lost,Small,4,13711.25,0.0
+2023-05-25,West,David,Software Liscense,Closed Won,Small,6,12397.36,74384.16
+2023-12-26,South,Carol,Software Liscense,Closed Lost,Small,18,11520.51,0.0
+2023-08-21,West,Eva,Consulting,Closed Lost,Small,6,1207.11,0.0
+2023-02-06,South,David,Hardware,Closed Won,Small,17,12734.07,216479.19
+2023-12-18,West,Carol,Training,Closed Won,Medium,14,6851.64,95922.96
+2023-04-30,South,Carol,Software Liscense,Closed Won,Small,11,5464.73,60112.03
+2023-05-16,West,Alice,Consulting,Closed Won,Large,19,8423.91,160054.29
+2023-11-17,West,Eva,Consulting,Closed Lost,Medium,2,1824.62,0.0
+2023-10-29,North,Alice,Consulting,Closed Won,Medium,3,11471.37,34414.11
+2023-12-05,North,Bob,Hardware,Closed Lost,Small,11,8945.31,0.0
+2023-04-12,West,Alice,Training,Closed Lost,Medium,6,3205.56,0.0
+2023-08-06,West,Grace,Hardware,Closed Won,Large,14,3229.37,45211.18
+2023-02-28,East,Alice,Support Package,Closed Lost,Small,19,3171.61,0.0
